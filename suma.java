@@ -6,5 +6,4 @@ System.out.println("Enter a first number");
 numero1 = reader.nextInt();
 
 System.out.println("Enter a second number");
-numero2 = reader.nextInt();
 
